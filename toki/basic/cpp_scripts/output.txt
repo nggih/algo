@@ -1,0 +1,1 @@
+masukan nilai a: masukan nilai b: hasil dari penjumlahan a dan b : 3
